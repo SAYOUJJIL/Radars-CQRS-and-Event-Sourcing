@@ -12,6 +12,19 @@
 ---
 ## <code> Architecture technique du projet</code>
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/85376207/209467865-74dc3f3d-5c90-4bf8-b658-aab9dc90e22b.png">
+
 ## <code> Diagramme de classe global du projet</code>
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/85376207/209467245-7c8c5d15-74c4-4b07-be6e-0c7c036f9b2d.png">
+
+## <code> Le micro-service Radar</code>
+
+## <code>Le micro-service Immatriculation</code>
+
+## <code>Le micro-service Infractions</code>
+
+## <code>Les services techniques de l’architecture micro-service</code>
+  - Gateway
+  - Eureka Discovery service
+  
+## <code>Application Frontend avec Angular </code>
 
