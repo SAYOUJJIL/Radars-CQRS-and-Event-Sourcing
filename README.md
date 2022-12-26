@@ -8,7 +8,6 @@
 6. Mettre en place les services techniques de l’architecture micro-service (Gateway, Eureka Discovery service)
 7. Développer votre application Frontend avec Angular ou React
 8. Sécuriser votre système avec un système de d’authentification OAuth2 comme Keycloak
-9. Ecrire un script docker-compose.yml pour le déploiement de ce système distribué dans des conteneurs docker
 ---
 ## <code> Architecture technique du projet</code>
 <img width="541" alt="image" src="https://user-images.githubusercontent.com/85376207/209485801-b1acd714-d994-4cd8-8bb1-47f7aec26bdc.png">
